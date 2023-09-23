@@ -1,7 +1,7 @@
 # HW4-Fall23
 Homework 4 for Fall 2023
 
-To copy this to your computer open a termanl and change directory to the correct directory. 
+To copy this to your computer open a terminal and change directory to the correct directory (using cd dir).
 
 - git clone (url)
 
